@@ -1,3 +1,5 @@
+"use client";
+
 import ZakatForm from "@/components/ZakatForm";
 import { useZakatStore } from "@/store/zakatStore";
 
